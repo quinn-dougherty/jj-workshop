@@ -9,3 +9,9 @@ Maybe fill this out?
 * The best kind of phone is _______
 * The best superhero is Brunnhilde
 * The WORST VCS is git
+* The best operating system is Omarchy
+* The best text editor is Emacs
+* The best kind of phone is Idc
+* The best superhero is Siegfried
+* The best SHUT UP
+* `jj new`: let's see
